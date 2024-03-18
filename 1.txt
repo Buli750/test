@@ -1,3 +1,4 @@
 Czesc
 nara
 1
+to jest zmiana zrobiona na github
